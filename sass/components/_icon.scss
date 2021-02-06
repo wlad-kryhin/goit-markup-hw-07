@@ -7,8 +7,8 @@
   background-color: rgba(255, 255, 255, 0.1);
   border-radius: 50%;
   align-items: center;
-  transition: background-color $time-hover $cubic-for-all 300ms,
-    color $time-hover $cubic-for-all 300ms;
+  transition: background-color $time-hover $cubic-for-all,
+    color $time-hover $cubic-for-all;
 
   &:hover,
   &:focus {

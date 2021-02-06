@@ -21,7 +21,7 @@
   padding-bottom: 32px;
   padding-top: 32px;
   display: block;
-  transition: color $time-hover $cubic-for-all 300ms;
+  transition: color $time-hover $cubic-for-all;
 
   &:focus,
   &:hover {

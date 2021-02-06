@@ -24,8 +24,8 @@
   border: 1px solid $partners-color;
   border-radius: 4px;
   justify-content: center;
-  transition: color $time-hover $cubic-for-all 300ms,
-    border $time-hover $cubic-for-all 300ms;
+  transition: color $time-hover $cubic-for-all,
+    border $time-hover $cubic-for-all;
 
   &:hover,
   &:focus {

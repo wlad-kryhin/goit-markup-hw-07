@@ -12,9 +12,9 @@
   cursor: pointer;
   height: 38px;
 
-  transition: color $time-hover $cubic-for-all 300ms,
-    background-color $time-hover $cubic-for-all 300ms,
-    box-shadow $time-hover $cubic-for-all 300ms;
+  transition: color $time-hover $cubic-for-all,
+    background-color $time-hover $cubic-for-all,
+    box-shadow $time-hover $cubic-for-all;
 
   &:hover,
   &:focus {
